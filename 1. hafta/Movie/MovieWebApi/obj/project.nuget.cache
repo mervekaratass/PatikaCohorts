@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7AvC5buzgUfp35gdiL9pWPDBC07ldNQ9It1dvl/iKT/xbYEhl72Kn9k0Upd6b26f+Y5bKq6i/vBXpbXvAMcBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Merve Karataş\\Documents\\GitHub\\Movie_Cohorts\\Movie\\MovieWebApi\\MovieWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Merve Karataş\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
