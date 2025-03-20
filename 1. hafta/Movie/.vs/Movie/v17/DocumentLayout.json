@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Controllers\\MovieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieWebApi\\Controllers\\MovieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieWebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieWebApi\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Program.cs",
+              "RelativeToolTip": "MovieWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:44:53.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieWebApi\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieWebApi\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:44:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieWebApi\\Movie.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\1. hafta\\Movie\\MovieWebApi\\Movie.cs",
+              "RelativeToolTip": "MovieWebApi\\Movie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:44:53.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

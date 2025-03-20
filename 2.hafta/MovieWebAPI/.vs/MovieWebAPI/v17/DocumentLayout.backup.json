@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|solutionrelative:moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:00:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\MovieManager.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\MovieManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:52:14.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieWebAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieWebAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:51:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Business\\BusinessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:45:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
+              "RelativeToolTip": "DataAccess\\DataAccessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:45:49.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:42:17.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
