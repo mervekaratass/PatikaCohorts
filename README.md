@@ -1,1 +1,1 @@
-Bu repository de patika cohorts tarafındaki tüm haftaların ödevlerini içermektedir.
+📫 Bu repository de patika cohorts tarafındaki tüm haftaların ödevlerini içermektedir.
