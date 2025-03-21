@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kcFfabh4tN4=",
+  "dgSpecHash": "ryi5ElDpMQI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\merve\\source\\repos\\BookStoreAPI\\BookStoreAPI\\BookStoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\3.hafta\\BookStoreAPI\\BookStoreAPI\\BookStoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merve\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\merve\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
