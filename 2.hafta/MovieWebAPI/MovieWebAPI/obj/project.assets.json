@@ -1138,11 +1138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\MovieWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\MovieWebAPI\\MovieWebAPI.csproj",
       "projectName": "MovieWebAPI",
-      "projectPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\MovieWebAPI.csproj",
+      "projectPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\MovieWebAPI\\MovieWebAPI.csproj",
       "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\MovieWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1160,14 +1160,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Business.csproj"
+            "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Business.csproj"
             },
-            "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj"
+            "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj"
             },
-            "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Entities\\Entities.csproj"
+            "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Entities\\Entities.csproj"
             }
           }
         }

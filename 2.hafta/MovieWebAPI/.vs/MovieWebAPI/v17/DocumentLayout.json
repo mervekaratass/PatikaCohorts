@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|solutionrelative:moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\source\\repos\\moviewebapi\\dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\business\\validators\\movievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\validators\\movievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\business\\abstracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\abstracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8118D12-82F8-4FE4-B213-F5824B221AFF}|Core\\Core.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8118D12-82F8-4FE4-B213-F5824B221AFF}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD70F3EE-C481-4115-8D0C-84841C9CA3BE}|Entities\\Entities.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD70F3EE-C481-4115-8D0C-84841C9CA3BE}|Entities\\Entities.csproj|solutionrelative:entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\inmemory\\inmemorymovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD73174-86AB-4487-918A-E5385A1B1219}|Business\\Business.csproj|solutionrelative:business\\concretes\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F0B521-2BF6-46B0-B738-10EEF8D19E64}|MovieWebAPI\\MovieWebAPI.csproj|solutionrelative:moviewebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|c:\\users\\merve\\documents\\github\\patikacohorts\\2.hafta\\moviewebapi\\dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E90FE0-22BD-4243-ACDE-B43DFBE2736A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +50,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T15:16:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieValidator.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Validators\\MovieValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Validators\\MovieValidator.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Validators\\MovieValidator.cs",
+              "RelativeToolTip": "Business\\Validators\\MovieValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:14:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Abstracts\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Abstracts\\IMovieService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:11:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Entities\\Movie.cs",
+              "RelativeToolTip": "Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:01:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\Abstracts\\IMovieRepository.cs",
               "RelativeToolTip": "DataAccess\\Abstracts\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MovieManager.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
               "RelativeDocumentMoniker": "Business\\Concretes\\MovieManager.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\Concretes\\MovieManager.cs",
               "RelativeToolTip": "Business\\Concretes\\MovieManager.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAawB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MovieWebAPI\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\MovieWebAPI\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MovieWebAPI\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAYwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,23 +142,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BusinessServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Business\\BusinessServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Business\\BusinessServiceRegistration.cs",
               "RelativeToolTip": "Business\\BusinessServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:45:53.172Z"
+              "WhenOpened": "2025-03-20T13:45:53.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DataAccessServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
               "RelativeDocumentMoniker": "DataAccess\\DataAccessServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\DataAccessServiceRegistration.cs",
               "RelativeToolTip": "DataAccess\\DataAccessServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "InMemoryMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
-              "ToolTip": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
+              "ToolTip": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
               "RelativeToolTip": "DataAccess\\Concretes\\InMemory\\InMemoryMovieRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

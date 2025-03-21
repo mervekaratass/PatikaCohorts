@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj": {}
+    "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj": {
+    "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merve\\source\\repos\\MovieWebAPI\\Core\\obj\\",
+        "outputPath": "C:\\Users\\merve\\Documents\\GitHub\\PatikaCohorts\\2.hafta\\MovieWebAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",

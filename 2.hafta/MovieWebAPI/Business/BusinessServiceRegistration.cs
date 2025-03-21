@@ -18,8 +18,7 @@ namespace Business
         {
             services.AddSingleton<IMovieService, MovieManager>();
            
-          
-
+         
             return services;
         }
     }
